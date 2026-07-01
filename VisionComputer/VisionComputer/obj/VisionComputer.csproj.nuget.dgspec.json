@@ -44,6 +44,16 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.13.0.20260627, )"
+            },
+            "OpenCvSharp4.runtime.ubuntu.22.04-x64": {
+              "target": "Package",
+              "version": "[4.6.0-SNAPSHOT, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -69,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.315/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.315/RuntimeIdentifierGraph.json"
         }
       }
     }

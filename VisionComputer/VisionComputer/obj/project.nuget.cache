@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4zfT+FJtR4Y=",
+  "dgSpecHash": "J/x+26bAjjM=",
   "success": true,
   "projectFilePath": "/home/mplopes/Documents/computervision/VisionComputer/VisionComputer/VisionComputer.csproj",
   "expectedPackageFiles": [
+    "/home/mplopes/.nuget/packages/opencvsharp4/4.13.0.20260627/opencvsharp4.4.13.0.20260627.nupkg.sha512",
+    "/home/mplopes/.nuget/packages/opencvsharp4.runtime.ubuntu.22.04-x64/4.6.0-snapshot/opencvsharp4.runtime.ubuntu.22.04-x64.4.6.0-snapshot.nupkg.sha512",
+    "/home/mplopes/.nuget/packages/system.memory/4.6.3/system.memory.4.6.3.nupkg.sha512",
     "/home/mplopes/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.17/microsoft.aspnetcore.app.ref.9.0.17.nupkg.sha512"
   ],
   "logs": []
