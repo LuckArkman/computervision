@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VisionComputer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa182f7c0765299241b1b3e3e5b95e383aa8c0e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfb262d83d47405a6c8164de2ab8b0ae7a0467c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("VisionComputer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VisionComputer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
